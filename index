@@ -46,7 +46,7 @@
 
  <A HREF="poczta_Kowalewski.html"> Tutaj jest link do poczty </A><br>
             <A HREF="plik_Kowalewski.html"> Tutaj jest link do pliku </A><br>
-            <A HREF="tabela_Kowalewski.html"> Tutaj jest link do tabeli </A><br>
+            <A HREF="tabela_kowalewski"> Tutaj jest link do tabeli </A><br>
             <A HREF="formularz_Kowalewski.html"> Tutaj jest link do formularza </A><br>
             <a href="#skok_poczatek_kowalewski">kliknij aby skoczyć do poczatek tekstu</a><br>
             <a href="#skok_koniec_kowalewski">kliknij aby skoczyć do konca tekstu</a>
@@ -140,7 +140,7 @@
 					<LI> macOS Ventura<br>
 <A HREF="poczta_Kowalewski.html"> Tutaj jest link do poczty </A><br>
             <A HREF="plik_Kowalewski.html"> Tutaj jest link do pliku </A><br>
-            <A HREF="tabela_Kowalewski.html"> Tutaj jest link do tabeli </A><br>
+            <A HREF="tabela_kowalewski"> Tutaj jest link do tabeli </A><br>
             <A HREF="formularz_Kowalewski.html"> Tutaj jest link do formularza </A><br>
             <a href="#skok_poczatek_kowalewski">kliknij aby skoczyć do poczatek tekstu</a><br>
             <a href="#skok_srodek_kowalewski">kliknij aby skoczyć do srodek tekstu</a>
